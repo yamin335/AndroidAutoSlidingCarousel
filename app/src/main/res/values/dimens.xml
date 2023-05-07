@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="halfPageMargin">5dp</dimen><!-- half of distance between pages -->
+    <dimen name="peekOffset">24dp</dimen><!-- how much of adjacent pages is shown -->
+</resources>
