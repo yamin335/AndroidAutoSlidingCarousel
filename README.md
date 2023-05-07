@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/yamin335/AndroidAutoSlidingCarousel/blob/master/sample.gif" alt="Coder GIF" width="468" style="margin=0px 0px 0px 20px;">
+<img align="right" src="https://github.com/yamin335/AndroidAutoSlidingCarousel/blob/master/sample.gif" alt="Coder GIF" width="380">
 
 <h1>AndroidAutoSlidingCarousel</h1>
 
