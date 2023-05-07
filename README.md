@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/yamin335/yamin335/blob/main/android_auto_carousel.gif" alt="Coder GIF" width="468" style="margin=0px 0px 0px 20px;">
+<img align="right" src="https://github.com/yamin335/AndroidAutoSlidingCarousel/blob/master/sample.gif" alt="Coder GIF" width="468" style="margin=0px 0px 0px 20px;">
 
 <h1>AndroidAutoSlidingCarousel</h1>
 
@@ -11,6 +11,7 @@
 using <a href="https://developer.android.com/jetpack/androidx/releases/viewpager2">Android ViewPager 2</a>. If you are willing to make 
 your own auto moving carousel in android then this project is for you 😊 . Just clone this repo and enjoy the freedom of modifications 🍀</h3>
 
+<br>
 <br>
 <br>
 
